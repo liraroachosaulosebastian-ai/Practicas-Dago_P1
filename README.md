@@ -1,2 +1,2 @@
-# Practicas-Dago_P1
+# Practicas-Dago
 Prácticas P1
