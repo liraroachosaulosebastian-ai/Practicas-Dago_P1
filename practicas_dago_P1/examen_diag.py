@@ -1,4 +1,4 @@
-inicio 
+#inicio 
 contador=0
 total_sueldos=0
 continuar="S"
