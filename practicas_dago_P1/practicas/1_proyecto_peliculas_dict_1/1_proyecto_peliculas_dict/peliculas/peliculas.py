@@ -32,7 +32,7 @@ def _imprimirFila(codigo, peli):
     print(f"\t{codigo:<6}{peli['nombre']:<30}{peli['categoria']:<15}"
           f"{peli['clasificacion']:<10}{peli['genero']:<15}{peli['idioma']}")
 
-# ── CRUD ──────────────────────────────────────────────────────────────────────
+
 
 def agregarPeliculas(pelis):
     print("\n\t\t\t...::: AGREGAR PELICULAS :::... \n")
